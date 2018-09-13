@@ -1,6 +1,6 @@
-baseurl = "https://www.example.com/"
+baseurl = "https://analyse-this-r-data.netlify.com/"
 languageCode = "en-us"
-title = "Blackburn Theme Demo"
+title = "analyse-this-r-data-blog"
 theme = "blackburn"
 author = "Yoshiharu Yamashita"
 copyright = "&copy; 2016. All rights reserved."
@@ -50,7 +50,7 @@ paginate = 10
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "*"
+  twitter = "https://twitter.com/mamoozled"
   facebook = "*"
   instagram = "*"
   github = "yoshiharuyamashita"
