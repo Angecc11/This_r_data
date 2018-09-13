@@ -34,6 +34,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>Creating the blog</title>
+      <link>/post/creating-the-blog/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/creating-the-blog/</guid>
+      <description>before I forget I’ll quickly jot down the sequence I took creating the blog. Will fill in the details later Create a new repository in Github and clone/ download. Copy the URL in terminal cd to the directory in which you will create the project blog git clone [paste url] File, new project, existing directory blogdown::new_site(choose your theme) Git &amp;gt; diff &amp;gt; commit &amp;gt;push into netlify and connect your repository</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
