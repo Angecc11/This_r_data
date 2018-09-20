@@ -1,11 +1,13 @@
-baseurl = "https://analyse-this-r-data.netlify.com/"
+baseurl = "https://this-and-data.netlify.com/"
 languageCode = "en-us"
 title = "analyse-this-r-data-blog"
 theme = "blackburn"
-author = "Yoshiharu Yamashita"
-copyright = "&copy; 2016. All rights reserved."
+author = "Angela C"
+copyright = "&copy; 2018. All rights reserved."
 canonifyurls = true
 paginate = 10
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [indexes]
   tag = "tags"
@@ -13,13 +15,14 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
-  brand = "Blackburn"
+  subtitle = "A blog about learning R and getting lost in wonderRland"
+  brand = "Angela"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
+  
 
 [menu]
   # Shown in the side menu.
@@ -50,9 +53,9 @@ paginate = 10
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "https://twitter.com/mamoozled"
+  twitter = "mamoozled"
   facebook = "*"
   instagram = "*"
-  github = "yoshiharuyamashita"
+  github = "angecc11"
   stackoverflow = "*"
   linkedin = "*"
