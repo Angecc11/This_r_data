@@ -1,0 +1,15 @@
+---
+title: notes for myself
+author: Angela
+date: '2018-09-16'
+slug: notes-for-myself
+categories: []
+tags: []
+description: ''
+topics: []
+---
+
+How to embed an image into a markdown document. Particularly when I want to show an extract from someone elses website.
+
+Do I just save the screen prints as images into my static folder?
+

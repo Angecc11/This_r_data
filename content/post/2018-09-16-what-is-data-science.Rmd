@@ -1,0 +1,57 @@
+---
+title: What is data science?
+author: Angela
+date: '2018-09-16'
+slug: what-is-data-science
+categories:
+  - Data Science
+tags: []
+description: ''
+topics: []
+---
+
+
+What is data?
+
+*data are values of qualitative or quantitative variables, belonging to a set of items.* Source [wikipedia/wiki] (https://en.m.wikipedia.org/wiki/data)
+ 
+What does data look like?
+
+# What about big data?
+
+# Types of data science questions 
+* Descriptive
+* Exploratory
+* Inferential 
+* Predictive
+* Causal
+* Mechanistic 
+
+Descriptive data analysis describes the data.
+Exploratory analysis ai,s to find relationships you were not aware of 
+Inference uses a small data sample to say something about the bigger population
+Predictive uses data about one thing to make predictions about another object
+Causal analysis seeks to find what happens to one variable when you make changes to another variable. 
+Mechanistic analysis seeks to understand the exact change in a variables that lead to changes in other variables for other objects 
+
+# Experimental design
+Key notes  
+* Know and care about the analysis   
+* Plan how and where to share data and code  
+* Formulate the question in advance   
+* Statistical inference  
+* Variability  
+* Confounding  
+* Correlation is not causation  
+* Randomizing and blocking  
+* Prediction versus inference   
+* Prediction key quantities  
+* Beware data dredging  
+
+
+Good experiments have replication, measure variability, generalize to the problem you care about and are transparent.
+
+
+* 
+
+

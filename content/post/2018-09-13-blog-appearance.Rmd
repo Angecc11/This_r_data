@@ -1,0 +1,14 @@
+---
+title: Blog appearance
+author: Angela
+date: '2018-09-13'
+slug: blog-appearance
+categories: []
+tags: []
+description: ''
+topics: []
+---
+
+Just wondering how to change the color etc like the blog below. Not sure where to add custom css. need to learn!
+
+https://github.com/maelle/simplymaelle/blob/master/config.toml

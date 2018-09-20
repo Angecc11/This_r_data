@@ -1,0 +1,74 @@
+---
+title: Data Science Tools
+author: Angela
+date: '2018-09-16'
+slug: data-science-tools
+categories: []
+tags:
+  - Shell
+  - Command Line Interface
+  - CLI
+  - Git
+description: ''
+topics: []
+---
+
+
+# Command line interface
+*terminal* on Mac or Linux, *git bash* on Windows
+
+
+Used to navigate directories (also known as folders), create and edit files, folders and programs, run programs.
+Directories on computers are organized like trees. The directory at the top of the tree is the *root directory* and is represented by /.
+The root directory contains all other directories.
+Your *home directory* is represented by a tilde ~
+
+The $ is the prompt symbol in a CLI. You start in the *home* directory. The *working directory* is the one you are  working in.
+The *path* to your working directory is like the directions of how to get from your root directory to your working directory.
+
+## Some CLI commands
+- *pwd* (print working directory) displays the path to your working directory 
+- *clear* to clear commands 
+- *ls* list files in the current directory 
+- *cd* to change directory 
+- *mkdir* make directory 
+- *touch* to create an empty file
+- *cp* copy
+- *rm* remove
+- *mv* move files between directories or rename files
+- *echo* to print argument to screen
+- *date* prints today’s date
+- 
+Commands can have *arguments* and *flags*.
+Flags are options that trigger certain behaviors and are preceded by a -
+Arguments are what the command works on or with
+
+#GIT 
+
+ Git is a version control systems that keeps track of changes made to a file or set of files. Everything is stored on local repositories on your computer.
+Git is operated from the command line. 
+*Git bash* is the CLI for working with git. 
+Each commit to a Git repository will have the tag of the username making the commit.
+*git config* to set your username and password
+
+*Github* is a web based platform for projects using git version control.  Go to https://GitHub.com
+You can *push* or *pull* local repositories to or from repositories on the web. 
+Users repositories are backed up on github.
+Git is local on your computer while github is remote on the web.
+GitHub allows users to create and share repositories, access other users repositories, backup your local files on the remote GitHub server
+
+A user can create a new repository (repo) or fork someone else’ repository which is to make a copy.
+You can create a new repository on GitHub and copy it to your local computer using *git init* to initialize the local repository and  *git remote add origin* with the URL of the GitHub repository.  
+To fork or copy a repository from GitHub to your local machine *git clone* with the URL of the repository on GitHub.
+Use *git commit* to  save changes made to a repository to your local machine, *git push* to save the changes to be remote repository.
+Use *git checkout* to create a branch of a repo you are working on with other people but don’t want to amend it. 
+*git branch* to check which version of a branch you are on.
+Send a *pull* request to GitHub to merge your changes into a branch.
+
+# Markdown
+#*Markdown
+
+
+
+
+

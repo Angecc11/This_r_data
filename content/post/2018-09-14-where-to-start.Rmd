@@ -1,0 +1,94 @@
+---
+title: Where to start
+author: Angela
+date: '2018-09-14'
+slug: where-to-start
+categories:
+  - R
+tags: []
+description: ''
+topics: []
+---
+
+
+I thought I might start by listing the various courses taken and data science related topics I have learned about so far. Then cross reference by adding some tags and categories so it will be easy to refer to at later.
+
+In the next post I will try and list the things the known unknowns! However I am sure there are loads of things I am not even aware of. As I come across things I will add them to this post.
+
+Use headings, subheadings, images, bullet points.
+
+
+The next post will outline what I want to learn - based at this stage on what I think I need to learn. The known unknowns! I'm sure there are plenty more areas I need to focus on.
+
+I will start by going through the modules taken for the professional diploma. Then I will go through my folders and files for the rest. I will attempt to tidy up the folders as I go.
+
+Professional Diploma in Data Analytics.
+
+### Module 1: Data Analytics
+
+#### Introduction to Data Analytics 
+
+Course Outline:
+Introduction, Types of Variables and Data, Sampling
+Descriptive Statistics: Graphical Techniques for Displaying Data & Numerical Summary Measures
+Probability Concepts
+Random Variables and Probability Distributions
+Sampling Distributions
+Confidence Interval Estimation 
+Hypothesis Testing Procedures: Single sample
+Hypothesis Tests and Confidence Intervals: Two samples
+The Analysis of Categorical Data
+Simple Linear Regression
+Analysis of Variance
+
+
+#### Advanced Data Analytics 
+Course Outline:
+- Probability distributions  
+- Introduce the Exponential, Poisson, Beta and Gamma distributions  
+- Discuss the practical and theoretical uses of the above probability distribution  
+- Likelihood: Introduce the concept of likelihood and its role in the estimation of distribution parameters and their associated uncertainty
+- Bayesian inference: Incorporate prior information in the performance of parameter estimation using so-called Bayesian inference
+
+Learning outcomes:
+
+- Identify the most appropriate probability distribution to model particular types of data  
+- Estimate parameters and their associated uncertainty using likelihood methods and interpret these values in the context of real-world problems  
+- Incorporate prior information into common statistical problems and obtain posterior distributions  
+
+
+#### R Programming
+
+•
+•
+•
+
+#### Data Mining
+
+- Data Mining  
+- Association rules  
+- Clustering methods 
+- Classification trees  
+- Ensemble methods  
+- Modern Regression  
+- Random Forests  
+- Boosting  
+- Support vector machines 
+- Topic modeling.
+
+Data mining is the process of discovering patterns and structures in large datasets. It uses methods from statistics, computer science and machine learning.
+
+It is more exploratory than multvariate analysis. The emphasis is on developing predictions from data.
+
+Data mining has many practical applications
+
+
+*Business applications*
+Help companies intelligently organize and nd information
+Credit scoring
+Predict purchasing behavior Recommend products/services Develop trading strategies
+*Scientific applications*
+Predict disease occurrence Find predictive data features Simplify high volume data
+
+- Elementary probability, Addition rule, conditional probability, independent events
+

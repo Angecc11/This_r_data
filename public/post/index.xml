@@ -6,7 +6,7 @@
     <description>Recent content in Posts on analyse-this-r-data-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
@@ -31,6 +31,120 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Data Mining 1</title>
+      <link>/post/data-mining-1/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-mining-1/</guid>
+      <description>Data Mining
+ Data Mining
+ Association rules
+ Clustering methods Classification trees
+ Ensemble methods
+ Modern Regression
+ Random Forests
+ Boosting
+ Support vector machines Topic modeling.  Data mining is the process of discovering patterns and structures in large datasets. It uses methods from statistics, computer science and machine learning.
+It is more exploratory than multvariate analysis. The emphasis is on developing predictions from data.
+Data mining has many practical applications</description>
+    </item>
+    
+    <item>
+      <title>Data Science Tools</title>
+      <link>/post/data-science-tools/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-science-tools/</guid>
+      <description>Command line interface terminal on Mac or Linux, git bash on Windows
+Used to navigate directories (also known as folders), create and edit files, folders and programs, run programs. Directories on computers are organized like trees. The directory at the top of the tree is the root directory and is represented by /. The root directory contains all other directories. Your home directory is represented by a tilde ~
+The $ is the prompt symbol in a CLI.</description>
+    </item>
+    
+    <item>
+      <title>Using the Feynman Technique </title>
+      <link>/post/using-the-fenman-technique/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/using-the-fenman-technique/</guid>
+      <description>The Feynman technique I came across this blogpost by Venkat Raman. MSee blogpost at medium So I did a bit of research online and in summary:
+There are four steps to using the Feynman Technique
+Choose a concept you want to learn about.
+ Explain it in your own words using as simple language as possible, perhaps including an example to show the concept in action. Your explanation should be able to teach the concept to someone else, even a child.</description>
+    </item>
+    
+    <item>
+      <title>What is data science?</title>
+      <link>/post/what-is-data-science/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/what-is-data-science/</guid>
+      <description>What is data?
+data are values of qualitative or quantitative variables, belonging to a set of items. Source [wikipedia/wiki] (https://en.m.wikipedia.org/wiki/data)
+What does data look like?
+What about big data?  Types of data science questions  Descriptive Exploratory Inferential Predictive Causal Mechanistic  Descriptive data analysis describes the data. Exploratory analysis ai,s to find relationships you were not aware of Inference uses a small data sample to say something about the bigger population Predictive uses data about one thing to make predictions about another object Causal analysis seeks to find what happens to one variable when you make changes to another variable.</description>
+    </item>
+    
+    <item>
+      <title>Why start this blog?</title>
+      <link>/post/why-start-this-blog/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/why-start-this-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes for myself</title>
+      <link>/post/notes-for-myself/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/notes-for-myself/</guid>
+      <description>How to embed an image into a markdown document. Particularly when I want to show an extract from someone elses website.
+Do I just save the screen prints as images into my static folder?</description>
+    </item>
+    
+    <item>
+      <title>varianceexplained advice</title>
+      <link>/post/varianceexplained-advice/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/varianceexplained-advice/</guid>
+      <description>I came across the following excellent post by David Robinson on his personal blog Varianceexplained.org
+I found it to be a very useful article as it could have been written just for me! When you are just learning things on your own it can be hard to know where you are and where you should be going.
+David provides a list of possible topics you could write about if you’re not yet working as a data scientist.</description>
+    </item>
+    
+    <item>
+      <title>EMC Big Data and Data Analytics</title>
+      <link>/post/emc-big-data-and-data-analytics/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/emc-big-data-and-data-analytics/</guid>
+      <description>EMC book “Data Science and Big Data Analytics” Chapter 1 1.1 big data overview  Huge volume Complexity of data types and structures Speed of new data creation and growth  Big data often described as having the 3 v’s - Volume - Variety - Velocity
+What is driving the data deluge? - Mobile sensors - Social media - Video surveillance - Video rendering - Smart grids - Geophysical exploration - Medical imaging - Gene sequencing</description>
+    </item>
+    
+    <item>
+      <title>Where to start</title>
+      <link>/post/where-to-start/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/where-to-start/</guid>
+      <description>I thought I might start by listing the various courses taken and data science related topics I have learned about so far. Then cross reference by adding some tags and categories so it will be easy to refer to at later.
+In the next post I will try and list the things the known unknowns! However I am sure there are loads of things I am not even aware of. As I come across things I will add them to this post.</description>
+    </item>
+    
+    <item>
+      <title>Blog appearance</title>
+      <link>/post/blog-appearance/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blog-appearance/</guid>
+      <description>Just wondering how to change the color etc like the blog below. Not sure where to add custom css. need to learn!
+https://github.com/maelle/simplymaelle/blob/master/config.toml</description>
     </item>
     
     <item>

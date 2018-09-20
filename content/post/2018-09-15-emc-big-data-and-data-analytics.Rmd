@@ -1,0 +1,43 @@
+---
+title: EMC Big Data and Data Analytics
+author: Angela
+date: '2018-09-15'
+slug: emc-big-data-and-data-analytics
+categories:
+  - Data Analytics
+tags:
+  - Big Data
+description: ''
+topics: []
+---
+
+# EMC book “Data Science and Big Data Analytics”
+
+## Chapter 1
+###1.1 big data overview
+- Huge volume
+- Complexity of data types and structures
+- Speed of new data creation and growth
+
+Big data often described as having the 3 v’s
+- Volume
+- Variety
+- Velocity
+
+What is driving the data deluge?
+- Mobile sensors
+- Social media
+- Video surveillance
+- Video rendering
+- Smart grids
+- Geophysical exploration
+- Medical imaging
+- Gene sequencing
+
+## Data structures
+Most of big data is unstructured or semi structured. 
+
+- Structured - spreadsheets, csv files etc
+- Semi-structures - XML files
+- “Quasi” structured - click stream data
+- Unstructured-  text documents, PDF’s, videos, images

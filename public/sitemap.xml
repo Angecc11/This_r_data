@@ -13,6 +13,61 @@
   </url>
   
   <url>
+    <loc>/post/data-mining-1/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/data-science-tools/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/using-the-fenman-technique/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/what-is-data-science/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/why-start-this-blog/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/notes-for-myself/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/varianceexplained-advice/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/emc-big-data-and-data-analytics/</loc>
+    <lastmod>2018-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/where-to-start/</loc>
+    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/blog-appearance/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/creating-the-blog/</loc>
     <lastmod>2018-09-13T00:00:00+00:00</lastmod>
   </url>
@@ -20,11 +75,6 @@
   <url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,8 +93,38 @@
   </url>
   
   <url>
+    <loc>/tags/big-data/</loc>
+    <lastmod>2018-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cli/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/command-line-interface/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/feynman-technique/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/git/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,8 +171,14 @@
   </url>
   
   <url>
+    <loc>/tags/shell/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

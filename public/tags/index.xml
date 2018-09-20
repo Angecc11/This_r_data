@@ -6,11 +6,38 @@
     <description>Recent content in Tags on analyse-this-r-data-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big Data</title>
+      <link>/tags/big-data/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cli</title>
+      <link>/tags/cli/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Command Line Interface</title>
+      <link>/tags/command-line-interface/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/command-line-interface/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development</title>
@@ -18,6 +45,24 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feynman Technique</title>
+      <link>/tags/feynman-technique/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/feynman-technique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>/tags/git/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/git/</guid>
       <description></description>
     </item>
     
@@ -72,6 +117,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>/tags/shell/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/shell/</guid>
       <description></description>
     </item>
     

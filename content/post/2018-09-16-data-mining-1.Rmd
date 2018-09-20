@@ -1,0 +1,45 @@
+---
+title: Data Mining 1
+author: Angela
+date: '2018-09-16'
+slug: data-mining-1
+categories: []
+tags: []
+description: ''
+topics: []
+---
+
+*Data Mining* 
+
+- Data Mining  
+- Association rules  
+- Clustering methods 
+- Classification trees  
+- Ensemble methods  
+- Modern Regression  
+- Random Forests  
+- Boosting  
+- Support vector machines 
+- Topic modeling.
+
+Data mining is the process of discovering patterns and structures in large datasets. It uses methods from statistics, computer science and machine learning.
+
+It is more exploratory than multvariate analysis. The emphasis is on developing predictions from data.
+
+Data mining has many practical applications
+
+
+*Business applications*
+Help companies intelligently organize and nd information
+Credit scoring
+Predict purchasing behavior Recommend products/services Develop trading strategies
+*Scientific applications*
+Predict disease occurrence Find predictive data features Simplify high volume data
+
+### Starting at the beginning
+
+- Elementary probability, Addition rule, conditional probability, independent events, complements, contingency tables, fréchet bounds, 
+
+The Fréchet Bounds usually written as
+max{P(A) + P(B) − 1, 0} ≤ P(A ∩ B) ≤ min{P(A), P(B)}.
+The bounds are “tight” which means that there is no better lower or upper bound that holds generally.
